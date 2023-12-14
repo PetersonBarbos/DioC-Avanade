@@ -1,0 +1,15 @@
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/primeiroCod/bin/Debug/net7.0/primeiroCod
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/primeiroCod/bin/Debug/net7.0/primeiroCod.deps.json
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/primeiroCod/bin/Debug/net7.0/primeiroCod.runtimeconfig.json
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/primeiroCod/bin/Debug/net7.0/primeiroCod.dll
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/primeiroCod/bin/Debug/net7.0/primeiroCod.pdb
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/primeiroCod/obj/Debug/net7.0/primeiroCod.csproj.AssemblyReference.cache
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/primeiroCod/obj/Debug/net7.0/primeiroCod.GeneratedMSBuildEditorConfig.editorconfig
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/primeiroCod/obj/Debug/net7.0/primeiroCod.AssemblyInfoInputs.cache
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/primeiroCod/obj/Debug/net7.0/primeiroCod.AssemblyInfo.cs
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/primeiroCod/obj/Debug/net7.0/primeiroCod.csproj.CoreCompileInputs.cache
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/primeiroCod/obj/Debug/net7.0/primeiroCod.dll
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/primeiroCod/obj/Debug/net7.0/refint/primeiroCod.dll
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/primeiroCod/obj/Debug/net7.0/primeiroCod.pdb
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/primeiroCod/obj/Debug/net7.0/primeiroCod.genruntimeconfig.cache
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/primeiroCod/obj/Debug/net7.0/ref/primeiroCod.dll

@@ -1,0 +1,15 @@
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/segundoCod/bin/Debug/net7.0/segundoCod
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/segundoCod/bin/Debug/net7.0/segundoCod.deps.json
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/segundoCod/bin/Debug/net7.0/segundoCod.runtimeconfig.json
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/segundoCod/bin/Debug/net7.0/segundoCod.dll
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/segundoCod/bin/Debug/net7.0/segundoCod.pdb
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/segundoCod/obj/Debug/net7.0/segundoCod.csproj.AssemblyReference.cache
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/segundoCod/obj/Debug/net7.0/segundoCod.GeneratedMSBuildEditorConfig.editorconfig
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/segundoCod/obj/Debug/net7.0/segundoCod.AssemblyInfoInputs.cache
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/segundoCod/obj/Debug/net7.0/segundoCod.AssemblyInfo.cs
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/segundoCod/obj/Debug/net7.0/segundoCod.csproj.CoreCompileInputs.cache
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/segundoCod/obj/Debug/net7.0/segundoCod.dll
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/segundoCod/obj/Debug/net7.0/refint/segundoCod.dll
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/segundoCod/obj/Debug/net7.0/segundoCod.pdb
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/segundoCod/obj/Debug/net7.0/segundoCod.genruntimeconfig.cache
+/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/segundoCod/obj/Debug/net7.0/ref/segundoCod.dll
