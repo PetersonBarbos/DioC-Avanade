@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/segundoCod/segundoCod.csproj": {}
+    "/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/segundoCod/segundoCod.csproj": {}
   },
   "projects": {
-    "/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/segundoCod/segundoCod.csproj": {
+    "/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/segundoCod/segundoCod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/segundoCod/segundoCod.csproj",
+        "projectUniqueName": "/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/segundoCod/segundoCod.csproj",
         "projectName": "segundoCod",
-        "projectPath": "/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/segundoCod/segundoCod.csproj",
+        "projectPath": "/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/segundoCod/segundoCod.csproj",
         "packagesPath": "/home/peterson/.nuget/packages/",
-        "outputPath": "/home/peterson/Área de Trabalho/Desktop/Faculdade/dioC#/segundoCod/obj/",
+        "outputPath": "/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/segundoCod/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/peterson/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/primeiroCod/primeiroCod.csproj": {}
+    "/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/TerceiroCod/TerceiroCod.csproj": {}
   },
   "projects": {
-    "/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/primeiroCod/primeiroCod.csproj": {
+    "/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/TerceiroCod/TerceiroCod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/primeiroCod/primeiroCod.csproj",
-        "projectName": "primeiroCod",
-        "projectPath": "/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/primeiroCod/primeiroCod.csproj",
+        "projectUniqueName": "/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/TerceiroCod/TerceiroCod.csproj",
+        "projectName": "TerceiroCod",
+        "projectPath": "/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/TerceiroCod/TerceiroCod.csproj",
         "packagesPath": "/home/peterson/.nuget/packages/",
-        "outputPath": "/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/primeiroCod/obj/",
+        "outputPath": "/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/TerceiroCod/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/peterson/.nuget/NuGet/NuGet.Config"

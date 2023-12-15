@@ -1,0 +1,15 @@
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/TerceiroCod/obj/Debug/net7.0/TerceiroCod.csproj.AssemblyReference.cache
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/TerceiroCod/obj/Debug/net7.0/TerceiroCod.GeneratedMSBuildEditorConfig.editorconfig
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/TerceiroCod/obj/Debug/net7.0/TerceiroCod.AssemblyInfoInputs.cache
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/TerceiroCod/obj/Debug/net7.0/TerceiroCod.AssemblyInfo.cs
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/TerceiroCod/obj/Debug/net7.0/TerceiroCod.csproj.CoreCompileInputs.cache
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/TerceiroCod/bin/Debug/net7.0/TerceiroCod
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/TerceiroCod/bin/Debug/net7.0/TerceiroCod.deps.json
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/TerceiroCod/bin/Debug/net7.0/TerceiroCod.runtimeconfig.json
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/TerceiroCod/bin/Debug/net7.0/TerceiroCod.dll
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/TerceiroCod/bin/Debug/net7.0/TerceiroCod.pdb
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/TerceiroCod/obj/Debug/net7.0/TerceiroCod.dll
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/TerceiroCod/obj/Debug/net7.0/refint/TerceiroCod.dll
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/TerceiroCod/obj/Debug/net7.0/TerceiroCod.pdb
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/TerceiroCod/obj/Debug/net7.0/TerceiroCod.genruntimeconfig.cache
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/TerceiroCod/obj/Debug/net7.0/ref/TerceiroCod.dll
