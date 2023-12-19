@@ -1,27 +1,86 @@
 ﻿using TerceiroCod.Models;
 using System.Globalization;
 
-//Execções genéricas e especificas
+//Filas
+//Fifo - first in, first out
+Queue<int> fila = new Queue<int>();
+fila.Enqueue(2);
+fila.Enqueue(6);
+fila.Enqueue(3);
+fila.Enqueue(1);
+foreach(int item in fila){
+    Console.WriteLine(item);
+}
+Console.WriteLine($"Removendo {fila.Dequeue()}");//não passa parâmetro pq é em ordem
+foreach(int item in fila){
+    Console.WriteLine(item);
+}
+Console.WriteLine("------------");
+fila.Enqueue(10);//em ultimo porque é na ordem
+foreach(int item in fila){
+    Console.WriteLine(item);
+}
 
-try{
-     string [] linhas = File.ReadAllLines("Arquivos/d/arquivo_01.txt");
-    foreach(string linha in linhas){
-         Console.WriteLine(linha);
-     }
-}catch(FileNotFoundException ex){
-    Console.WriteLine($"Ocorreu uma exceção específica de arquivo: {ex.Message}");
-}
-catch(DirectoryNotFoundException ex){
-    Console.WriteLine($"Ocorreu uma exceção específica de diretório: {ex.Message}");
-}
 
-catch(Exception ex){//genérica
-     Console.WriteLine($"Ocorreu uma exceção genérica: {ex.Message}");
-} 
-finally{
-    Console.WriteLine("Programa executado");
-}
-//o bloco finally é executado independente de ter exceções
+
+
+
+
+
+
+
+
+
+// //Throw
+// new ExemploExcecao().Metodo1();
+// //o throw vai jogar o código pelo caminho de volta até achar um tratamento para a exceção
+// //caso não encontre ele vai exibir aquela mensagem de exceção grande o StackTrace
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// //Execções genéricas e especificas
+
+// try{
+//      string [] linhas = File.ReadAllLines("Arquivos/d/arquivo_01.txt");
+//     foreach(string linha in linhas){
+//          Console.WriteLine(linha);
+//      }
+// }catch(FileNotFoundException ex){
+//     Console.WriteLine($"Ocorreu uma exceção específica de arquivo: {ex.Message}");
+// }
+// catch(DirectoryNotFoundException ex){
+//     Console.WriteLine($"Ocorreu uma exceção específica de diretório: {ex.Message}");
+// }
+
+// catch(Exception ex){//genérica
+//      Console.WriteLine($"Ocorreu uma exceção genérica: {ex.Message}");
+// } 
+// finally{
+//     Console.WriteLine("Programa executado");
+// }
+// //o bloco finally é executado independente de ter exceções
 
 
 
