@@ -1,25 +1,117 @@
 ﻿using TerceiroCod.Models;
 using System.Globalization;
 
-//Filas
-//Fifo - first in, first out
-Queue<int> fila = new Queue<int>();
-fila.Enqueue(2);
-fila.Enqueue(6);
-fila.Enqueue(3);
-fila.Enqueue(1);
-foreach(int item in fila){
-    Console.WriteLine(item);
+//Dictionary
+Dictionary<string, string> estados = new Dictionary<string, string>();
+//o primeiro valor é a chave e o segundo é o valor, não pode ter chaves iguais
+estados.Add("SP","São Paulo");
+estados.Add("BA","Bahia");
+estados.Add("PE","Pernambuco");
+estados.Add("RJ","Rio de Janeiro");
+
+// foreach(KeyValuePair<string, string> item in estados){
+//     Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+// }
+//ou
+foreach(var item in estados){
+    Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
 }
-Console.WriteLine($"Removendo {fila.Dequeue()}");//não passa parâmetro pq é em ordem
-foreach(int item in fila){
-    Console.WriteLine(item);
+// estados.Add("BA","Bahia");
+estados.Add("BA2","Bahia");
+// Removendo itens
+estados.Remove("RJ");//Diferente de filas e pilhas, não tem ordem
+//Alterando valores
+estados["SP"] = "São Paulo Alterado";//só não pode alterar a chave
+foreach(var item in estados){
+    Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
 }
-Console.WriteLine("------------");
-fila.Enqueue(10);//em ultimo porque é na ordem
-foreach(int item in fila){
-    Console.WriteLine(item);
+//Verificando se já tem uma chave antes de adicionar
+// string chave = "PE";
+string chave = "PE2";
+Console.WriteLine($"Verificando se já tem {chave}");
+if(estados.ContainsKey(chave)){
+    Console.WriteLine($"Já existe a chave: {chave}");
+} else{
+    Console.WriteLine($"Pode adicionar {chave} que não tem ainda");
 }
+
+//verificando um valor que corresponde a uma determinada chave
+Console.WriteLine(estados["PE"]);
+
+
+
+
+
+
+
+
+
+
+
+// //Pilhas
+// //Lifo - last in, first out
+// Stack <int> pilha = new Stack<int>();
+// pilha.Push(4);
+// pilha.Push(7);
+// pilha.Push(6);
+// pilha.Push(410);
+
+// foreach(int item in pilha){
+//     Console.WriteLine(item);
+// }
+// Console.WriteLine($"Removendo {pilha.Pop()}");
+// pilha.Push(20);
+// foreach(int item in pilha){
+//     Console.WriteLine(item);
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// //Filas
+// //Fifo - first in, first out
+// Queue<int> fila = new Queue<int>();
+// fila.Enqueue(2);
+// fila.Enqueue(6);
+// fila.Enqueue(3);
+// fila.Enqueue(1);
+// foreach(int item in fila){
+//     Console.WriteLine(item);
+// }
+// Console.WriteLine($"Removendo {fila.Dequeue()}");//não passa parâmetro pq é em ordem
+// foreach(int item in fila){
+//     Console.WriteLine(item);
+// }
+// Console.WriteLine("------------");
+// fila.Enqueue(10);//em ultimo porque é na ordem
+// foreach(int item in fila){
+//     Console.WriteLine(item);
+// }
 
 
 
