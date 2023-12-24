@@ -1,0 +1,15 @@
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/CSPoo/obj/Debug/net6.0/CSPoo.csproj.AssemblyReference.cache
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/CSPoo/obj/Debug/net6.0/CSPoo.GeneratedMSBuildEditorConfig.editorconfig
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/CSPoo/obj/Debug/net6.0/CSPoo.AssemblyInfoInputs.cache
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/CSPoo/obj/Debug/net6.0/CSPoo.AssemblyInfo.cs
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/CSPoo/obj/Debug/net6.0/CSPoo.csproj.CoreCompileInputs.cache
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/CSPoo/bin/Debug/net6.0/CSPoo
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/CSPoo/bin/Debug/net6.0/CSPoo.deps.json
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/CSPoo/bin/Debug/net6.0/CSPoo.runtimeconfig.json
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/CSPoo/bin/Debug/net6.0/CSPoo.dll
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/CSPoo/bin/Debug/net6.0/CSPoo.pdb
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/CSPoo/obj/Debug/net6.0/CSPoo.dll
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/CSPoo/obj/Debug/net6.0/refint/CSPoo.dll
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/CSPoo/obj/Debug/net6.0/CSPoo.pdb
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/CSPoo/obj/Debug/net6.0/CSPoo.genruntimeconfig.cache
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/CSPoo/obj/Debug/net6.0/ref/CSPoo.dll

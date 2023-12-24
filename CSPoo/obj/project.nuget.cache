@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dbje+hf0OiLntwwNl7xYiuP1jbIPZ/Im83sh0Y2ggI0lbkZDH9F9Fux7+AUAkcnID8GE7RlMs73uWbkgBqNQCg==",
+  "success": true,
+  "projectFilePath": "/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/CSPoo/CSPoo.csproj",
+  "expectedPackageFiles": [
+    "/home/peterson/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.25/microsoft.netcore.app.host.linux-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
