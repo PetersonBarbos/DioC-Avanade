@@ -1,0 +1,15 @@
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/ModuloDeTeste/Calculadora/obj/Debug/net7.0/Calculadora.csproj.AssemblyReference.cache
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/ModuloDeTeste/Calculadora/obj/Debug/net7.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/ModuloDeTeste/Calculadora/obj/Debug/net7.0/Calculadora.AssemblyInfoInputs.cache
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/ModuloDeTeste/Calculadora/obj/Debug/net7.0/Calculadora.AssemblyInfo.cs
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/ModuloDeTeste/Calculadora/obj/Debug/net7.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/ModuloDeTeste/Calculadora/bin/Debug/net7.0/Calculadora
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/ModuloDeTeste/Calculadora/bin/Debug/net7.0/Calculadora.deps.json
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/ModuloDeTeste/Calculadora/bin/Debug/net7.0/Calculadora.runtimeconfig.json
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/ModuloDeTeste/Calculadora/bin/Debug/net7.0/Calculadora.dll
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/ModuloDeTeste/Calculadora/bin/Debug/net7.0/Calculadora.pdb
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/ModuloDeTeste/Calculadora/obj/Debug/net7.0/Calculadora.dll
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/ModuloDeTeste/Calculadora/obj/Debug/net7.0/refint/Calculadora.dll
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/ModuloDeTeste/Calculadora/obj/Debug/net7.0/Calculadora.pdb
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/ModuloDeTeste/Calculadora/obj/Debug/net7.0/Calculadora.genruntimeconfig.cache
+/home/peterson/Área de Trabalho/Desktop/Faculdade/DioC#Avanade/ModuloDeTeste/Calculadora/obj/Debug/net7.0/ref/Calculadora.dll
